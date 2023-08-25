@@ -1,7 +1,7 @@
 # Desafio de Projeto DIO
 ## Criando e Implementando um Projeto Lógico de Banco de Dados
 
-### Referente a [desafio-sql](link)
+### Referente a [desafio-sql](https://github.com/lucasgleria/CriandoEImplementandoUmProjetoLogicoDeBancoDeDados/tree/main/desafio-sql)
 <h4><b> Desafio proposto: </b></h4>
 Neste desafio, você terá a oportunidade de criar seu primeiro projeto lógico de banco de dados utilizando o MySQL. O objetivo é replicar a modelagem de um banco de dados para um cenário de e-commerce. Prepare-se para aplicar seus conhecimentos em modelagem de banco de dados e traduzir os requisitos do cenário em uma estrutura lógica coerente usando o MySQL.
 
@@ -58,17 +58,17 @@ Qual a quantidade dispnível em estoque? <br>
 ### Separei o desafio em 3 arquivos diferentes por fins visuais.
 <h4>O que encontrarei no <b>create.sql</b>?</h4>
 
-* Todo o script em [create.sql](link) é desenvolvido com o comando nativo 'create' e alguns 'alter', no início criando o banco de dados e após isso todos os schemas seguintes, com suas propriedades, seguindo as instruções da orientadora.
+* Todo o script em [create.sql](https://github.com/lucasgleria/CriandoEImplementandoUmProjetoLogicoDeBancoDeDados/blob/main/desafio-sql/create.sql) é desenvolvido com o comando nativo 'create' e alguns 'alter', no início criando o banco de dados e após isso todos os schemas seguintes, com suas propriedades, seguindo as instruções da orientadora.
     * Fiz modificações e melhorias no script por minha conta. 
 
 <h4>O que encontrarei no <b>insert.sql</b>?</h4>
 
-* Todo o script em [insert.sql](link) é desenvolvido com o comando nativo 'insert into', inserindo em todos os schemas dados conforme cada qual, com suas propriedades, seguindo as instruções da orientadora.
+* Todo o script em [insert.sql](https://github.com/lucasgleria/CriandoEImplementandoUmProjetoLogicoDeBancoDeDados/blob/main/desafio-sql/insert.sql) é desenvolvido com o comando nativo 'insert into', inserindo em todos os schemas dados conforme cada qual, com suas propriedades, seguindo as instruções da orientadora.
     * Fiz modificações e melhorias no script por minha conta.
     <br>
     <b>OBS:</b> Há um insert into no fim do script referente ao schema 'orders', para atualizar o orders anterior, devido alguns conflítuos e problemas com chaves estrangeiras, essa foi a solução que encontrei para que todas as queries funcionem
 
 <h4>O que encontrarei no <b>queries.sql</b>?</h4>
 
-* Todo o script em [queries.sql](link) é desenvolvido com o comando nativo 'select', fazendo todas as buscas nos schemas conforme suas propriedades, seguindo as instruções da orientadora
+* Todo o script em [queries.sql](https://github.com/lucasgleria/CriandoEImplementandoUmProjetoLogicoDeBancoDeDados/blob/main/desafio-sql/queries.sql) é desenvolvido com o comando nativo 'select', fazendo todas as buscas nos schemas conforme suas propriedades, seguindo as instruções da orientadora
     * Fiz modificações e melhorias no script por minha conta.
